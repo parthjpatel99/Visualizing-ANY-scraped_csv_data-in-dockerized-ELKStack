@@ -9,4 +9,12 @@ This is a personal project to learn about ELK stack, Docker, Web Scrapping among
 
 Will update README to highlight about key steps. 
 
+## Screenshots
 
+![Indices](images/Indices.png)
+
+![Dashboard](images/Dashboard.png)
+
+![Record](images/Record.png)
+
+![Indexpattern](images/Indexpattern.png)
