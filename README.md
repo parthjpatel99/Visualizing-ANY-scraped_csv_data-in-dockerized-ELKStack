@@ -2,7 +2,7 @@
 
 This is a personal project to learn about ELK stack, Docker, Web Scrapping among other things. 
 
-###Primary resources 
+### Primary resources 
 
 * Run ELK stack on Docker: https://github.com/deviantony/docker-elk (modified according to my use case)
 * For web scraping: https://towardsdatascience.com/scraping-covid19-data-using-python-80120eb5eb66
